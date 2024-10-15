@@ -1,7 +1,6 @@
-## In-memory db 
+## IN MEMORY DATABASE
 
-### Problem Statement
-The objective is to design and implement an in-memory SQL-like database, which should support the following set of operations/functionality:
+Build in memory database with following requirements:
 
 * It should be possible to create, update or delete tables in a database.
 * A table definition comprises columns which have types. They can also have constraints
